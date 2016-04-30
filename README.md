@@ -1,5 +1,4 @@
-# Nihaulis
-Pinyin tone writers / Escritor de acentos del Pinyin
+# Nihaulis - Pinyin tone writers / Escritor de acentos del Pinyin
 
 ## English
 
@@ -51,7 +50,7 @@ When I say "its a very, very simple web app" I actually mean it. Because, it doe
 
 ```
 
-### ¿Anything I should now?
+### Anything I should now?
 
 Yup. First of all, it uses jQuery (because I'm to lazy to write raw JS), Bootstrap (because I'm still to lazy to diagram the grid layout and stuff), and Clipboard.js to copy to the Windows clipboard the value of the textarea. Yeah, some of the CSS was writed by me (because I'm lazy but I like pretty things).
 
