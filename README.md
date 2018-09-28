@@ -56,7 +56,7 @@ Yup. First of all, it uses jQuery (because I'm to lazy to write raw JS), Bootstr
 
 Second of all, this was a quick app, writed in spanish and with some lack of features (like a nice alert system).
 
-There's a live demo on [www.nihaulis.hol.es](https://www.nihaulis.hol.es/).
+There's a live demo on [http://niquito.github.io/nihaulis/](Github pages).
 
 ## Criollo
 
